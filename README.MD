@@ -23,5 +23,5 @@ ChatGPT：
 
 ## 📚 Materiais
 
-[Ebook] (https://drive.google.com/file/d/18n36jVk6qi4X-7N1q1CsuNta1vQxRTg8/view?usp=drive_link)
+- [Ebook](https://drive.google.com/file/d/18n36jVk6qi4X-7N1q1CsuNta1vQxRTg8/view?usp=drive_link)
 
